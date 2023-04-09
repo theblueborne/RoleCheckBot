@@ -34,4 +34,3 @@ async def vibe_check(ctx):
 print('Program is running. Please minimize this window.')
 
 bot.run("token")
-
